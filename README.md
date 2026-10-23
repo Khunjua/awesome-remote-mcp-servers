@@ -3473,6 +3473,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Edworking MCP](https://mcp.edworking.com) `https://mcp.edworking.com/mcp`
   [![Edworking MCP connector](https://glama.ai/mcp/connectors/io.github.Edworking/edworking-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Edworking/edworking-mcp)
   🔐 - Read and manage Edworking projects, tasks, conversations and files with scoped access.
+- [Entalpa](https://entalpa.com/en/connect) `https://api.entalpa.com/mcp`
+  [![Entalpa MCP connector](https://glama.ai/mcp/connectors/com.entalpa/requirements/badges/score.svg)](https://glama.ai/mcp/connectors/com.entalpa/requirements)
+  🔐 - Spec-driven development for AI coding agents: generate and manage stories, requirements and traceability links.
 - [Flowmaps](https://flowmaps.app) `https://flowmaps.app/api/mcp`
   [![Flowmaps MCP connector](https://glama.ai/mcp/connectors/app.flowmaps/flowmaps/badges/score.svg)](https://glama.ai/mcp/connectors/app.flowmaps/flowmaps)
   🔐 - Plan apps in build order: list ventures and Ready features, add ideas, and read step-by-step build plans.
